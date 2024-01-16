@@ -36,6 +36,8 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Noto Sans"
     weights: "200, 300, 400, 500, 600, 700"
+  - name: "Noto Serif Devanagari"
+    weights: "200, 300, 400, 500, 600, 700"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
