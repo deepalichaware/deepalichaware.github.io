@@ -41,7 +41,8 @@
 .page-image-caption {
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: auto;
+  left: auto;
   margin: 0 auto;
   padding: 0.25em 0.5em;
   color: #fff;
