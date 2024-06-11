@@ -26,6 +26,7 @@
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
+        <p><a href="{{ entry.url }}">(more...)</a></p>
       {% endif %}
     </div>
   {% endunless %}
