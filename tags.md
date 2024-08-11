@@ -1,5 +1,5 @@
 ---
-title: Tag Archive
+title: सर्व टॅग
 layout: tags
 permalink: /tags/
 show_excerpts: true

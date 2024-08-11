@@ -1,5 +1,5 @@
 ---
-title: Post Archive
+title: सर्व पोस्ट
 layout: posts
 permalink: /posts/
 show_excerpts: true

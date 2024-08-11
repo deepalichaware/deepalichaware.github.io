@@ -2,15 +2,20 @@
 
 # - title: Home
 #   url: /
-- title: Posts
+- title: पोस्ट
   url: /posts/
-# - title: Categories
+
+# - title: गट
 #   url: /categories/
-- title: Tags
+
+- title: टॅग
   url: /tags/
 # - title: Recipes
 #   url: /recipes/
-- title: Search
+- title: सर्च
   url: /search/
+
+- title: जुळवाजुळव
+  url: /julwajulaw/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
